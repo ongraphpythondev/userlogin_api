@@ -5,7 +5,7 @@ Django==2.2.5
 django-allauth==0.40.0
 django-rest-auth==0.9.5
 django-rest-registration==0.5.1
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 idna==2.8
 oauthlib==3.1.0
 python3-openid==3.1.0
